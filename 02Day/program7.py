@@ -9,6 +9,6 @@ def addition(*args):
 # addition()  
 # addition(1,2)
 # addition(1,2,3)
-addition(1,2,3,4)
-# tup = (4,5,6)
-# addition(tup)
+# addition(1,2,3,4)
+lst = [4,5,6]
+# addition(*lst)

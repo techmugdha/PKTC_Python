@@ -1,0 +1,8 @@
+1. Default / Optional parameter
+2. Positional argument
+3. keyword argument
+4. Variable length Positional arguments (*args)
+5. Variable length Keyword arguments (**kwargs)
+
+def test(p,k,*args,**kwargs,optional):
+  print()

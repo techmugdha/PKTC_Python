@@ -1,0 +1,8 @@
+Features of Functional Programming language:
+1. A function can be stored in another variable
+2. A function can be nested in another function
+3. A function body can be returned from another function.
+4. A function can be passed as a parameter to another function
+
+panhalemugdha@gmail.com
+8275006278
