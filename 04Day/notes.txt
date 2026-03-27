@@ -1,0 +1,22 @@
+Namespace : it is a list type of collection of names declared in your script files.
+1. Buil-in scope/ namespace : __doc__, __name__
+2. Global  Module level : __name__ == '__main__'
+3. Local scope : function level scope
+4. Enclosed scope: nested function scope of a variable
+
+# Generator
+# Iterator
+# Decorator
+
+class Emp
+{
+  private eid //0
+  private edept //null
+  private permissions // 0
+
+// Parameterless ctor
+  Emp()
+  {
+      this.permission = False
+  }
+}
